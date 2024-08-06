@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello World hello
 
+=======
+>>>>>>> parent of a7ac051 (Initail project file2)
