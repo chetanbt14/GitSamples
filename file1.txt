@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello World hello
 
 =======
@@ -9,3 +10,6 @@ Hello World hello
 >>>>>>> parent of a7ac051 (Initail project file2)
 =======
 >>>>>>> parent of a7ac051 (Initail project file2)
+=======
+Hello World
+>>>>>>> parent of e1b7e38 (Modified userStory3)
