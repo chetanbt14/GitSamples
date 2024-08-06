@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello World hello
 
+=======
+>>>>>>> parent of a7ac051 (Initail project file2)
 =======
 >>>>>>> parent of a7ac051 (Initail project file2)
 =======
